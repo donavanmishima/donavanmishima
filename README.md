@@ -9,13 +9,17 @@ Atualmente, sou estudante de **Desenvolvimento de Software Multiplataforma**. So
 
 ### 📚 O que estou estudando no momento
 No meu curso e em estudos autônomos, estou aprofundando meus conhecimentos em:
-- **Linguagens de Programação:** Java, C e PHP.
-- **Banco de Dados:** MySQL.
-- **Desenvolvimento Web:** Criação de Sites com base em banco de dados.
-
+- **Linguagens de Programação:** React, NodeExpress.
+- **Banco de Dados:** NoSQL.
+- 
 ### 🛠 Ferramentas e Tecnologias
 Abaixo estão as tecnologias que utilizo nos meus projetos:
-
+- VsCode
+- HTML
+- CSS
+- JavaScript
+- Node
+- React
 ### 📫 Como chegar até mim
 Estou sempre aberto a trocar ideias sobre tecnologia ou oportunidades de colaboração!
 
