@@ -20,6 +20,7 @@ Abaixo estão as tecnologias que utilizo nos meus projetos:
 - JavaScript
 - Node
 - React
+- MongoDB
 ### 📫 Como chegar até mim
 Estou sempre aberto a trocar ideias sobre tecnologia ou oportunidades de colaboração!
 
